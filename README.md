@@ -4,6 +4,8 @@
 
 This demo how to create a server streaming video from S3 using the [NestJS](https://nestjs.com/) framework.
 
+![Demo S3 Video Streaming by NestJS](demo.gif)
+
 ## Installation
 
 Copy `env.example` to `.env` file and put your S3 values into it.
